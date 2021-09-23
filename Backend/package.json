@@ -1,0 +1,31 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Backend of the thinQ assignment, API that gets and retrieves information from a public API (https://developers.themoviedb.org/3/movies)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamSerra7/ReactCodingExercise.git"
+  },
+  "keywords": [
+    "NodeJS",
+    "Movies",
+    "Backend",
+    "API",
+    "REST"
+  ],
+  "author": "Samuel Serrano G",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SamSerra7/ReactCodingExercise/issues"
+  },
+  "homepage": "https://github.com/SamSerra7/ReactCodingExercise#readme",
+  "dependencies": {
+    "axios": "^0.21.4",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1"
+  }
+}
